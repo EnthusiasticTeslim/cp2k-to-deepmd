@@ -3,7 +3,7 @@ This repository contains code that facilitates the conversion of CP2K AIMD data 
 
 ## Requirements
 
-### 1. Converting Raw AIMD Files to DeepMD `.npy`
+### 1. Converting raw AIMD data to DeepMD
 
 The `multicpk2deepmd.py` script allows for the conversion of raw CP2K AIMD files to the DeepMD format (`.npy`). The following inputs are required:
 
